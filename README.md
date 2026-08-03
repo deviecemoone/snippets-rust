@@ -1,0 +1,2 @@
+# snippets-rust
+rust project
